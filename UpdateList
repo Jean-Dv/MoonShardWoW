@@ -1,0 +1,55 @@
+#Fix Ping Pong Event Zonozz
+#Fix (Core/Misc): Other fix for langScript
+#(Core/Movement): Added mmaps movement Split
+#fix (Core/Spell): Fix Spell Orbe Pirofrio, added missing lines in code. Vanish and Stealth work better now need more cheks but its totally playable
+#fix (Core/Spell): Fix Rune weapon Daning, now its non selectable and not attackable
+#fix (Core/Spell): Fix scaling stats atack power in all cases
+#fix (Core/Spell): Fix effect glyph '59309' work fine now
+#fix (Core/Spell): Fix Gagoyle dk, now find enemy. Works fine
+#fix (Core/Spell): Fix Glyph Psychic Scream, work now and tested
+#Delete trash commands, update sql and delete trash file, commit spam console innecesary
+#Fix (Core/Unit):initial letter in player names
+#Core/Battlegrounds: Fix log errors about creatures not found Move 'Battleground::GetBGCreature: creature not found for BG' error log to INFO level when the caller expects no creatures to be found, like on Battleground startup.
+#(Misc/Archeology): Added loading of zones and loot from the base.
+#(Core/Archeology): Added handlers and player loading.
+#(Core/Misc): Added filtering for guild items from vendors.
+#(Kernel/Misc): Added a new feature for future fixes
+#(Misc/Items): Fixed Cauldron of War and Great Cauldron of War items.
+#(Core/Misc): Fixed max values ​​for different powers.
+#(Core/Misc): fixed cost calculation for spells using holy_power.
+#(Core/Spells Paladin): Fixed the damage of Templar's Verdict
+#(Core/Packages): Fixed SMSG_MOVE_SET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY and SMSG_MOVE_UNSET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY
+#(cripts/Items): Fixed Elixir of Battle item.
+#(Kernel/Misc): Added config option for acceleration
+#(Base/Items): Fixed 'Vial of the Sands' item.
+#(Core/Spells): Fixed the effect of the guild skill 'Guild Mail'.
+#(Core/Items): Fixed throwing weapon use
+#(Core/Quests): QuestFailedReasons 1 reason
+#(Kernel/Misc): Extra argument removed
+#(Base/Miscellaneous): Fixed access to 5pp cataclysm dungeons.
+#(Base/Spells): fixed order of displaying guild navs
+#(Core/Spells): Fixed guild skill 'Everybody here'.
+#(Core/Items): Fixed Firefly Heart item.
+#(Core/Spells Druid): Tweaks to work with eclipses.
+#(Core/Spells/Hunter/Rogue): Fixed Camouflage spell and fixes to Smoke Bomb
+#(Core/Spells/Hunter): Fixed Steady Shot gaining focus and Termination talent affecting it
+#(Core/Spells/Hunter): Fixed getting focus from Cobra Shot and the effect of Termination talent on it
+#(Core/Spell): Fix Bladestorm, Second Wind,
+#(Core/Auras): Fixed work of 150 and 158 auras
+#(Core/Auras): Fix 366 Aura
+#(Core/Icc): Fixed cannon gunship battle
+#fix (Core/Misc): Fix Elevator in Lady DeathWhisper, fix worldchat icon in alliance CASE
+#fix (Core/Icc): Fix correct movement in Boss Muradin, correct despawn and add more cheks for cannon gunship
+#(Core/Misc): Added new function and prepare Valithria Script
+#fix (Core/Icc): Fix Event last Valithria, work now
+#fix (Core/Misc): Fixed the cooldown of special profession spells.
+#fix (Core/Spells)Fix  Death Knight: fixed the healing of the 'Death Strike' spell, fixed the damage and healing of the 'Death Coil' spell, fixed the 'Chilblains' talent.
+#(Core/Auras): implemented 344 aura (SPELL_AURA_MOD_AUTOATTACK_DAMAGE)
+#(Core/Spell/Warrior): Fix Victory rush, Glyph of Victory Rush
+#(Core/Custom): Added Script Chek Map for Deepholm Work Fine, and teleport neutral zones
+#(Database): Added misc sql for ICC. Work fine all events in Normal and Heroic Mode but need more cheks and more works future
+#Update New web private CMS MONSTER.
+#(WebSite): Fix RealmStatus work fine now.
+#(WebSite): Fix Links in all WebSite, work fine.
+#(WebSite): Update control panel, add new sections.
+#(WebSite): Fix shop items view
