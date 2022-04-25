@@ -1,31 +1,31 @@
-# Last Night-Project
+# MoonShard WoW Cataclysm
 
-## Introduction
+## :point_right: Introduction
 
-- Last Night-Project © 2021, es un proyecto privado basado en TrinityCore. 
+- MoonShard WoW ©2022, es un proyecto privado basado en TrinityCore. 
 - Estamos constantemente actualizando y mejorando nuestro trabajo.
 
-## Developed 
+## :information_desk_person: Developed 
 
-+ Equipo de desarrollo de Last Night
++ Equipo de desarrollo de MoonShard
 
-## Issues
+## :bug: Issues
 
 + Ejemplo de report
-+ Description: descripcion del bug o exploit
++ Descripción: Explicar brevemente el bug o exploit
 + Como se produce el fallo: Como se genera el bug o exploit
 
-## Licencia
+## :page_with_curl: Licencia
 
 + Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/Release-Project/blob/main/LICENSE-GPL2)
-+ Los nuevos componentes fuente de Last Night-Project se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/Release-Project/blob/main/LICENSE-AGPL3)
++ Los nuevos componentes fuente de MoonShard WoW se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/Release-Project/blob/main/LICENSE-AGPL3)
 
-## Normas obligatorias
+## :scroll: Normas obligatorias
 
-- El trabajo y desarrollo de Last Night-Project es unico y exclusivo del equipo de desarrollo de Last Night
+- El trabajo y desarrollo de MoonShard WoW es unico y exclusivo del equipo de desarrollo de MoonShard 
 - Todo reporte sera fixeado en orden de urgencia.
 
-## Apoyo al area c++
+## :neckbeard: Apoyo al area C++
 
 - Con la finalidad de manter un servidor OPTIMO se le dedica horas fixeando y actualizando nuestro Codigo para evitar ataques, o abuso de exploits. 
 
